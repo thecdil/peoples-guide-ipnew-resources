@@ -18,6 +18,7 @@ description:
 - [HJCCC](https://www.lib.uidaho.edu/digital/hjccc/) (archeology dissertation typology to browseable website)
 - [Voices of Gay Rodeo](https://www.voicesofgayrodeo.com/) (faculty research, grows to involve students. a resource that makes the research more accessible than just the book)
 - [Human and Ecological Change in Big Creek](https://www.lib.uidaho.edu/digital/big-creek-rephotography/) (rephotography project)
+- [Moscow High School Archaeology](https://cdil.lib.uidaho.edu/ipa-mhs/) (public archaeology project, see StoryMaps)
 - [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/) (essay on top of a curated research collection)
 - [Keeping Watch](https://cdil.lib.uidaho.edu/keeping-watch/) (multi-modal geospatial essay)
 
