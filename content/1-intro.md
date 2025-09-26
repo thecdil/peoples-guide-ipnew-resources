@@ -1,37 +1,37 @@
 ---
 title: Introduction
 nav: Intro
+description: 
 ---
 
-`workshop-template-b` is a Jekyll project to create a simple workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/) (or similar static web options!).
+## Center for Digital Inquiry and Learning
 
-It works best for about five pages of instructions, plus home page, all written in Markdown. 
-The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the lessons.
+- [CDIL](https://cdil.lib.uidaho.edu/)
+    - [Digital Collections](https://www.lib.uidaho.edu/digital/) (digitized or born digital library open access collections)
+    - [CDIL Projects](https://cdil.lib.uidaho.edu/projects/) (scholarship projects with collaborators)
+    - [CollectionBuilder](https://collectionbuilder.github.io/) (open source framework for creating digital collection and exhibit websites, developed at CDIL, powers everything!)
 
-### Why?
+## Student Digital Scholarship Projects
 
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and GitHub Pages makes this pretty easy.
+- [HJCCC](https://www.lib.uidaho.edu/digital/hjccc/) (archeology dissertation typology to browseable website)
+- [Voices of Gay Rodeo](https://www.voicesofgayrodeo.com/) (faculty research, grows to involve students. a resource that makes the research more accessible than just the book)
+- [Human and Ecological Change in Big Creek](https://www.lib.uidaho.edu/digital/big-creek-rephotography/) (rephotography project)
+- [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/) (essay on top of a curated research collection)
+- [Keeping Watch](https://cdil.lib.uidaho.edu/keeping-watch/) (multi-modal geospatial essay)
 
-It is a great [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources) since anyone can make a copy and adapt!
+## Data and Spreadsheets
 
-## GitHub Pages 
+- Thinking about (humanities/history) data. 
+- How does structured data becomes websites? 
+- How does metadata impact discovery, useability, and context?
 
-One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
-It provides free static web hosting from any repository.
-GH-Pages is intended to host relatively simple sites for your GitHub portfolio, project, or documentation.
-Because it is free and a valuable transferable skill, this is a great option for teaching and learning.
+Example guide-like project: 
 
-Many organizations are using GitHub to collaboratively create and publish public workshop websites. 
-For example: 
+- [Latah County Historic Places](https://www.lib.uidaho.edu/digital/latahsites/)
+    - [Physical map](https://www.lib.uidaho.edu/digital/latahsites/items/latahsites0093.html)
+    - Current photographs
+    - Historic photographs
+    - Parse into data
+    - Represent as spreadsheet (metadata, structured data)
 
-- [Programming Historian](http://programminghistorian.org/)
-- [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/)
-- this site!
-
-{% capture text %}Note:
-There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
-If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
-All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.{% endcapture %}
-{% include alert.html text=text color=secondary %}
+{% include figure.html img="https://objects.lib.uidaho.edu/cities/small/cities1083_sm.jpg" alt="historic map with hand drawn lines showing view point of a camera" caption="Map of Bovill, <a href='https://www.lib.uidaho.edu/digital/cities/items/cities1083.html'>cities1083</a>" %}
