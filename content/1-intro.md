@@ -11,6 +11,8 @@ description:
     - [CDIL Projects](https://cdil.lib.uidaho.edu/projects/) (scholarship projects with collaborators)
     - [CollectionBuilder](https://collectionbuilder.github.io/) (open source framework for creating digital collection and exhibit websites, developed at CDIL, powers everything!)
 
+{% include figure.html img="keeping-watch.png" alt="outline of Idaho with circles representing look out towers" caption="<a href='https://cdil.lib.uidaho.edu/keeping-watch/'>Keeping Watch</a>" %}
+
 ## Student Digital Scholarship Projects
 
 - [HJCCC](https://www.lib.uidaho.edu/digital/hjccc/) (archeology dissertation typology to browseable website)
