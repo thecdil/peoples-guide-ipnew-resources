@@ -63,3 +63,5 @@ Fields:
 - Location - what location is represented in this item, or where was this item from?
 - State - the state related to this item's location. 
 - Lat/long - What is its latitude and longitude? Separate with a coma.
+
+{% include figure.html img="https://objects.lib.uidaho.edu/campus/small/campus02090_sm.jpg" alt="campus map with marks showing guard posts" caption="<a href='https://www.lib.uidaho.edu/digital/campus/items/campus02090.html'>campus map of buildings occupied by U.S. Navy 1945</a>" %}
